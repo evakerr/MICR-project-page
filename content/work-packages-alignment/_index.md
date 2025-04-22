@@ -1,7 +1,9 @@
+<p align="center">
 ---
 title: "Work Packages & Alignment"
 toc: true
 ---
+</p>
 
 This project is organized into three interconnected Work Packages (WPs), each focused on a specific domain of activity. Together, they form a cohesive structure that ensures effective coordination, strategic development, and practical implementation of solutions that align with ongoing national initiatives in the social sciences and humanities (SSH) domain. Below is an overview of each Work Package, including key activities and their alignment with external efforts.
 
