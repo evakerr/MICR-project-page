@@ -3,7 +3,7 @@ title: "Work Packages & Alignment"
 toc: true
 ---
 
-## Work Packages
+# Work Packages
 
 This project is organized into three interconnected Work Packages (WPs), each focused on a specific domain of activity. Together, they form a cohesive structure that ensures effective coordination, strategic development, and practical implementation of solutions that align with ongoing national initiatives in the social sciences and humanities (SSH) domain. Below is an overview of each Work Package, including key activities and their alignment with external efforts.
 
@@ -45,9 +45,9 @@ WP3 focuses on mapping the current research data management (RDM) services and i
 * Engaging with stakeholders from national projects to explore opportunities for alignment, integration, or reuse.
 * Testing insights and recommendations from WP2 against real-world conditions to assess feasibility and impact.
 
-## National Alignment
+# National Alignment
 
-# TDCC-SSH
+## TDCC-SSH
 
 This project has been reviewed by NWO, and is funded as a 2024 TDCC-SSH Challenge Project. It addresses three key challenges outlined in the TDCC-SSH Roadmap by providing recommendations to tackle these in future developments: 
 1. Support: Improving the RDM infrastructure involves creating streamlined, integrated, and largely automated support workflows that improve communication, develop documentation and training, and encourage adoption of RDM products and services.
@@ -57,11 +57,11 @@ This project has been reviewed by NWO, and is funded as a 2024 TDCC-SSH Challeng
 More information about the TDCC-SSH Roadmap can be found <a href="https://tdcc.nl/wp-content/uploads/2023/02/Roadmap-TDCC-SSH.pdf">here</a>.
 More information about TDCC-SSH projects can be found <a href="https://tdcc.nl/projects/project-initiatives-ssh/">here</a>. 
 
-# SLIPPRS 
+## SLIPPRS 
 
-# SSHOC-NL 
+## SSHOC-NL 
 
-# Meta-Project
+## Meta-Project
 
 
 
