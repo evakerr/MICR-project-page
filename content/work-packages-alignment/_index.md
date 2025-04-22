@@ -6,6 +6,6 @@ toc: true
 ## Work Packages
 
 <p align="center">
-  <img src="/work-packages.jpg" alt="Centered Image">
+  <img src="work-packages.jpg" alt="Centered Image">
 </p>
 
