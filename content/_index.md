@@ -1,5 +1,5 @@
 ---
-title: SSH-Challenge: Towards A Modular Infrastructure for Comprehensive RDM
+title: "SSH-Challenge: Towards A Modular Infrastructure for Comprehensive RDM"
 toc: false
 ---
 
