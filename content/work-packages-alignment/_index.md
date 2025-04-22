@@ -44,3 +44,25 @@ WP3 focuses on mapping the current research data management (RDM) services and i
 * Selecting a set of representative use cases that illustrate shared challenges, needs, or opportunities within the SSH community.
 * Engaging with stakeholders from national projects to explore opportunities for alignment, integration, or reuse.
 * Testing insights and recommendations from WP2 against real-world conditions to assess feasibility and impact.
+
+## National Alignment
+
+# TDCC-SSH
+
+This project has been reviewed by NWO, and is funded as a 2024 TDCC-SSH Challenge Project. It addresses three key challenges outlined in the TDCC-SSH Roadmap by providing recommendations to tackle these in future developments: 
+1. Support: Improving the RDM infrastructure involves creating streamlined, integrated, and largely automated support workflows that improve communication, develop documentation and training, and encourage adoption of RDM products and services.
+2. Sensitive data: Improving the RDM infrastructure enables researchers and institutes to manage their data effectively, ensuring easy access to relevant sources and supporting the management of sensitive data. It also increases FAIR access through secure data exchange, enforced terms of use, and diverse access policies.
+3. FAIR data and software: Currently, a significant amount of valuable data is still not being made available. An appropriate RDM infrastructure provides researchers with the support and services needed to archive and publish their (meta)data distinguishing between FAIR for the world (open) and FAIR for the institute (closed).
+
+More information about the TDCC-SSH Roadmap can be found <a href="https://tdcc.nl/wp-content/uploads/2023/02/Roadmap-TDCC-SSH.pdf">here</a>.
+More information about TDCC-SSH projects can be found <a href="https://tdcc.nl/projects/project-initiatives-ssh/">here</a>. 
+
+# SLIPPRS 
+
+# SSHOC-NL 
+
+# Meta-Project
+
+
+
+
