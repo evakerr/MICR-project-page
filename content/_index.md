@@ -15,7 +15,7 @@ infrastructures to identify the gaps, so that recommendations can follow for fut
 
 {{< cards >}}
   {{< card link="https://zenodo.org/records/11220690" title="Pre Proposal" icon="document-text" >}}
-  {{< card link="Full Proposal" title="Full-Proposal" icon="document-text" >}}
+  {{< card link="https://zenodo.org/records/15262096" title="Full Proposal" icon="document-text" >}}
 {{< /cards >}}
 
 ## Project Team
