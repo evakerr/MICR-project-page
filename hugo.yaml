@@ -24,9 +24,12 @@ menu:
     - name: Work Packages & Alignment
       pageRef: /work-packages-alignment/
       weight: 2
+    - name: Public Meetings & Events
+      pageRef: /events/
+      weight: 3
     - name: Contact ↗
       url: "mailto:e.lekkerkerker@uva.nl?cc=f.j.oort@uva.nl&subject=MICR%20project%20contact%20request"
-      weight: 3
+      weight: 4
 
 params:
   navbar:
