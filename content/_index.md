@@ -3,6 +3,8 @@ title: "SSH-Challenge: Towards A Modular Infrastructure for Comprehensive RDM"
 toc: true
 ---
 
+<p style="text-align: center;">Subtitle</p>
+
 ## Abstract
 Many research institutes have RDM policies for the SSH domain, but lack the infrastructure to fully implement them. Currently, they are independently developing different local RDM
 infrastructures, often with limited resources. A concerted nationwide effort would be helpful to create a policy-compliant, modular and interoperable infrastructure from which institutes can
