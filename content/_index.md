@@ -19,12 +19,12 @@ infrastructures to identify the gaps, so that recommendations can follow for fut
 ## Project Team
 
 {{< cards  cols="3" >}}
-  {{< card title="Frans Oort" image="person/unknown.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
-  {{< card title="Marcel Ras" image="person/marcel-ras.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
-  {{< card title="Maarten Hoogerwerf" image="person/maarten-hoogerwerrf.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
-  {{< card title="Eva Lekkerkerker" image="person/eva-lekkerkerker.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
-  {{< card title="Emma Schreurs" image="person/emma-schreurs.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1/3" >}}
-  {{< card title="Tako Horsley" image="person/tako-horsley.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
-  {{< card title="Cahit Mete Oguz" image="person/cahit-mete-oguz.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
-  {{< card title="Kees den Heijer" image="person/kees-den-heijer.jpg" method="Fill" options="600x600 q90 webp" tag="Project Liaison" >}}
+  {{< card title="Frans Oort (UvA)" image="person/unknown.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
+  {{< card title="Marcel Ras (VU)" image="person/marcel-ras.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
+  {{< card title="Maarten Hoogerwerf (SURF)" image="person/maarten-hoogerwerrf.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
+  {{< card title="Eva Lekkerkerker (UvA)" image="person/eva-lekkerkerker.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
+  {{< card title="Emma Schreurs (UvA)" image="person/emma-schreurs.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1/3" >}}
+  {{< card title="Tako Horsley (UvA)" image="person/tako-horsley.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
+  {{< card title="Cahit Mete Oguz (VU)" image="person/cahit-mete-oguz.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
+  {{< card title="Kees den Heijer (SURF)" image="person/kees-den-heijer.jpg" method="Fill" options="600x600 q90 webp" tag="Project Liaison" >}}
 {{< /cards >}}
