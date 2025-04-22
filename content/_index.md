@@ -21,7 +21,7 @@ infrastructures to identify the gaps, so that recommendations can follow for fut
 ## Project Team
 
 {{< cards  cols="3" >}}
-  {{< card title="Frans Oort (UvA)" image="person/unknown.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
+  {{< card title="Frans Oort (UvA)" image="person/frans-oort.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
   {{< card title="Marcel Ras (VU)" image="person/marcel-ras.jpg" method="Fill" options="600x600 q90 webp" tag="WP 3" >}}
   {{< card title="Maarten Hoogerwerf (SURF)" image="person/maarten-hoogerwerrf.jpg" method="Fill" options="600x600 q90 webp" tag="WP 2" >}}
   {{< card title="Eva Lekkerkerker (UvA)" image="person/eva-lekkerkerker.jpg" method="Fill" options="600x600 q90 webp" tag="WP 1" >}}
