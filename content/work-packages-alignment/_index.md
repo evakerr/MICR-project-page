@@ -12,7 +12,7 @@ This project is organized into three interconnected Work Packages (WPs), each fo
 </p>
 
 ## Work Package 1 (WP1)
-### Lead: University of Amsterdam (UvA)
+**Lead: University of Amsterdam (UvA)**
 
 WP1 is responsible for the overall coordination and operational management of the project. It ensures that all activities are executed according to plan, that communication across stakeholders remains active and transparent, and that the project team is supported in achieving their goals. This Work Package plays a central role in aligning the efforts of all partners and maintaining strategic engagement with relevant national organizations and communities in the SSH landscape.
 
@@ -24,7 +24,7 @@ WP1 is responsible for the overall coordination and operational management of th
 * Monitoring the project’s overall progress, drafting status reports, and initiating interventions when needed to keep the project on track.
 
 ## Work Package 2 (WP2)
-### Lead: SURF 
+**Lead: SURF**
 
 WP2 focuses on strategic analysis and modelling to inform the design of future-proof RDM infrastructure tailored to the SSH domain. This includes understanding current gaps, mapping policy and infrastructure landscapes, and delivering practical recommendations that support interoperable, scalable, and sustainable solutions. This Work Package provides the analytical and architectural groundwork needed to inform infrastructure design and policy alignment.
 
@@ -34,7 +34,7 @@ WP2 focuses on strategic analysis and modelling to inform the design of future-p
 * Developing structured recommendations to support feasible and sustainable enhancements to the RDM ecosystem.
 
 ## Work Package 3 (WP3)
-### Lead: Vrije Universiteit (VU)
+**Lead: Vrije Universiteit (VU)**
 
 WP3 focuses on mapping the current research data management (RDM) services and infrastructure available to the SSH domain in the Netherlands. The goal is to create a structured inventory of existing tools, services, and initiatives, and to explore opportunities for alignment, collaboration, and shared development. This work package builds on the models and recommendations from WP2 and engages closely with stakeholders to ensure an accurate and up-to-date overview of the national landscape. To further illustrate shared challenges, needs and opportunities in the SSH-domain, WP3 examines use-cases of the research life cycle (midway to complete research projects) to identity where fragmentation and hurdles exist. In collaboration and conjunction with WP2, these Work Package activities elevate recommendations to become more grounded in practice. 
 
