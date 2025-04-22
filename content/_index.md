@@ -19,13 +19,12 @@ infrastructures to identify the gaps, so that recommendations can follow for fut
 ## Project Team
 
 {{< cards  cols="3" >}}
-  {{< card title="Frans Oort" subtitle="WP 1" tag="smth?" >}}
-  {{< card title="Marcel Ras" subtitle="WP 3" tag="smth?" >}}
-  {{< card title="Maarten Hoogerwerf" subtitle="WP 2" tag="smth?" >}}
-  {{< card title="Eva Lekkerkerker" subtitle="WP 1" tag="smth?" >}}
-  {{< card title="Emma Schreurs" subtitle="WP 1/3" tag="smth?" >}}
-  {{< card title="Tako Horsley" subtitle="WP 2" tag="smth?" >}}
-  {{< card title="Cahit Mete Oguz" subtitle="WP 3" tag="smth?" >}}
-  {{< card title="Kees den Heijer" subtitle="Project Liaison" tag="smth?" >}}
-  {{< card title="Mark Thompson" subtitle="WP 2" tag="smth?" >}}
+  {{< card title="Frans Oort" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="WP 1" >}}
+  {{< card title="Marcel Ras" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="WP 3" >}}
+  {{< card title="Maarten Hoogerwerf" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="WP 2" >}}
+  {{< card title="Eva Lekkerkerker" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="WP 1" >}}
+  {{< card title="Emma Schreurs" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="WP 1/3" >}}
+  {{< card title="Tako Horsley" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="WP 2" >}}
+  {{< card title="Cahit Mete Oguz" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="WP 3" >}}
+  {{< card title="Kees den Heijer" image="person/unknown.jpg" method="Fill" options="600x600 q80 webp" tag="Project Liaison" >}}
 {{< /cards >}}
