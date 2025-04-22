@@ -1,6 +1,6 @@
 # This website is based on Hextra Starter Template
 
-🐣 Template: [Hextra](https://github.com/imfing/hextra)
+🐣 How to use the template [Hextra](https://imfing.github.io/hextra/docs/)
 
 ## Deployment
 
