@@ -8,7 +8,7 @@ toc: true
 
 We’re pleased to share the exciting news that our project “MICR: Towards a Modular Infrastructure for Comprehensive RDM” has been awarded funding through the TDCC-SSH Challenge Call 2024 by NWO. 
 
-To start things off, we’re organizing an Online Kick-Off Meeting on June 24 to walk you through the next steps. A Save-the-Date invitation will follow via Outlook. The detailed agenda will be included in that invitation closer to the kick-off, but here’s a preview of what to expect: 
+To start things off, we’re organizing an Online Kick-Off Meeting on June 24 to walk you through the next steps. A detailed agenda will be available closer to the date, but here is a preview of what to expect: 
 
 * A brief recap of the project’s purpose and scope 
 * Introduction of the TDCC-SSH team and discussion of their role in MICR 
