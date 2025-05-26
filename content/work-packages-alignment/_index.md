@@ -60,17 +60,19 @@ This project has been reviewed by NWO, and is funded as a 2024 TDCC-SSH Challeng
 
 ## SLIPPRS 
 
-This TDCC-SSH Bottleneck project also focuses on landscaping RDM through analysis of SSH policies and assessing infrastructural components. We’ve established contact between our teams and agreed to share a corpus of SSH policies, as well as exchange deliverables related to mapping SSH infrastructure. Several members of the MICR core team are also actively involved in SLIPPRS. 
+This TDCC-SSH Bottleneck project also focuses on landscaping RDM through analysis of SSH policies and assessing infrastructural components. We’ve established contact between our teams and agreed to share a corpus of SSH policies, as well as exchange deliverables related to mapping SSH infrastructure. Several members of the MICR core team are also actively involved in SLIPPRS (_Surveying the Landscape of Infrastructure, Policies, and Practices in Research Data Management in Faculties of Social and Behavioural Sciences_).
 
 {{< icon "link" >}} More information about SLIPPRS can be found <a href="https://tdcc.nl/tdcc-ssh-bottleneck-projects/">here</a>.
 
 ## SPII / Meta-Project
 
-MICR shares similar objectives with the SPII project, particularly in assessing the current state of research data management (RDM). Still, SPII has a more high-level approach and broader scope (all disciplines, all infrastructures, also including scholarly communication and research information), while MICR’s domain-specific focus and extended project timeline allow for more in-depth exploration. Here too, there is team overlap between MICR and SPII.
+MICR shares similar objectives with the SPII project (_Strategisch Plan Integrale Infrastructuur voor Open Science_), particularly in assessing the current state of research data management (RDM). Still, SPII has a more high-level approach and broader scope (all disciplines, all infrastructures, also including scholarly communication and research information), while MICR’s domain-specific focus and extended project timeline allow for more in-depth exploration. Here too, there is team overlap between MICR and SPII.
+
+{{< icon "link" >}} More information about SPII can be found <a href="https://zenodo.org/records/15387884">here</a>.
 
 ## SSHOC-NL 
 
-SSHOC-NL is a large-scale research infrastructure project funded by NWO, bringing together ODISSEI and CLARIAH to develop advanced digital infrastructure for the SSH domain. Given MICR's focus on modular RDM infrastructure, aligning with SSHOC-NL offers opportunities to ensure compatibility and complementarity between our initiatives.  
+SSHOC-NL (_Social Sciences and Humanities Open Cloud Netherlands_) is a large-scale research infrastructure project funded by NWO, bringing together ODISSEI and CLARIAH to develop advanced digital infrastructure for the SSH domain. Given MICR's focus on modular RDM infrastructure, aligning with SSHOC-NL offers opportunities to ensure compatibility and complementarity between our initiatives.  
 
 {{< icon "link" >}} More information about SSHOC-NL can be found <a href="https://sshoc.nl/">here</a>.
 
