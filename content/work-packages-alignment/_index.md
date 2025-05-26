@@ -55,14 +55,30 @@ This project has been reviewed by NWO, and is funded as a 2024 TDCC-SSH Challeng
 2. Sensitive data: Improving the RDM infrastructure enables researchers and institutes to manage their data effectively, ensuring easy access to relevant sources and supporting the management of sensitive data. It also increases FAIR access through secure data exchange, enforced terms of use, and diverse access policies.
 3. FAIR data and software: Currently, a significant amount of valuable data is still not being made available. An appropriate RDM infrastructure provides researchers with the support and services needed to archive and publish their (meta)data distinguishing between FAIR for the world (open) and FAIR for the institute (closed).
 
-More information about the TDCC-SSH Roadmap can be found <a href="https://tdcc.nl/wp-content/uploads/2023/02/Roadmap-TDCC-SSH.pdf">here</a>.
-More information about TDCC-SSH projects can be found <a href="https://tdcc.nl/projects/project-initiatives-ssh/">here</a>. 
+{{< icon "link" >}} More information about the TDCC-SSH Roadmap can be found <a href="https://tdcc.nl/wp-content/uploads/2023/02/Roadmap-TDCC-SSH.pdf">here</a>.
+{{< icon "link" >}} More information about TDCC-SSH projects can be found <a href="https://tdcc.nl/projects/project-initiatives-ssh/">here</a>. 
 
 ## SLIPPRS 
 
+This TDCC-SSH Bottleneck project also focuses on landscaping RDM through analysis of SSH policies and assessing infrastructural components. We’ve established contact between our teams and agreed to share a corpus of SSH policies, as well as exchange deliverables related to mapping SSH infrastructure. Several members of the MICR core team are also actively involved in SLIPPRS. 
+
+{{< icon "link" >}} More information about SLIPPRS can be found <a href="https://tdcc.nl/tdcc-ssh-bottleneck-projects/">here</a>
+
+## SPII / Meta-Project
+
+MICR shares similar objectives with the SPII project, particularly in assessing the current state of research data management (RDM). Still, SPII has a more high-level approach and broader scope (all disciplines, all infrastructures, also including scholarly communication and research information), while MICR’s domain-specific focus and extended project timeline allow for more in-depth exploration. Here too, there is team overlap between MICR and SPII.
+
 ## SSHOC-NL 
 
-## Meta-Project
+SSHOC-NL is a large-scale research infrastructure project funded by NWO, bringing together ODISSEI and CLARIAH to develop advanced digital infrastructure for the SSH domain. Given MICR's focus on modular RDM infrastructure, aligning with SSHOC-NL offers opportunities to ensure compatibility and complementarity between our initiatives.  
+
+{{< icon "link" >}} More information about SSHOC-NL can be found <a href="https://sshoc.nl/">here</a>
+
+## Closed Archive Project
+
+This is a TDCC-SSH Challenge project recently submitted for the 2025 round of financing. It aims to develop solutions for the secure archiving of sensitive research data in collaboration with service providers like DANS and SURF. Closed archiving is a crucial component of comprehensive RDM that both SPII and MICR recognize.
+
+{{< icon "link" >}} More information about the project idea (as an Expression of Interest pitched on Tue 13th of May for community review) can be found <a href="https://docs.google.com/spreadsheets/d/1GJVYkc7O4xII4-yb_a-ONiDDjTlhAxoa/edit?gid=1566379013#gid=1566379013">here</a>
 
 
 
