@@ -15,9 +15,9 @@ To start things off, we’re organizing an Online Kick-Off Meeting on June 24 to
 * Presentation of our research instruments (policy inventory, use cases and survey) 
 * Alignment with other relevant projects
 
-{{< icon "information-circle" >}} **How to join:**
+**How to join:**
 
-{{< icon "emoji-happy" >}} Date: 24 June 2025 <br>
+{{< icon "information-circle" >}} Date: 24 June 2025 <br>
 {{< icon "clock" >}} Time: 11.00 - 13.00 <br>
 {{< icon "phone-incoming" >}} Link: <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWJiNmU0NGYtODJjYi00NDc5LTk3NTEtZDdiZjIyMThhZjhh%40thread.v2/0?context=%7b%22Tid%22%3a%22a0f1cacd-618c-4403-b945-76fb3d6874e5%22%2c%22Oid%22%3a%2280d986c5-6780-4ccd-955e-7a0bf3f08e5a%22%7d">Join via Teams</a>
 
