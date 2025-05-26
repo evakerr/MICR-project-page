@@ -4,7 +4,8 @@ toc: true
 ---
 
 ## Current 
-{{< icon "calendar" >}} **MICR Online Kick-Off Meeting: 24 June**
+
+### {{< icon "calendar" >}} **MICR Online Kick-Off Meeting: 24 June**
 
 We’re pleased to share the exciting news that our project “MICR: Towards a Modular Infrastructure for Comprehensive RDM” has been awarded funding through the TDCC-SSH Challenge Call 2024 by NWO. 
 
