@@ -27,9 +27,12 @@ menu:
     - name: Public Meetings & Events
       pageRef: /events/
       weight: 3
+    - name: Advisory Group
+      pageRef: /advisoryboard/
+      weight: 4
     - name: Contact ↗
       url: "mailto:e.lekkerkerker@uva.nl?cc=f.j.oort@uva.nl&subject=MICR%20project%20contact%20request"
-      weight: 4
+      weight: 5
 
 params:
   navbar:
