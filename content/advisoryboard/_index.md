@@ -8,9 +8,9 @@ To ensure our work is informed, relevant, and impactful, we actively engage with
 
 ## Advisors
 
-* Sarah Coombs (DCC-PO/UoAS)
-* Michelle van den Berk (DANS)
-* Daniel Bangert (4TU)
-* Sally Wyatt (SSHOC-NL)
-* Sebastiaan Derks (KNAW)
+* **Sarah Coombs** (DCC-PO/UoAS) Advisor Research Support Saxion
+* **Michelle van den Berk** (DANS) Research Data Specialist DANS
+* **Daniel Bangert** (4TU) Director 4TU.ResearchData
+* **Sally Wyatt** (SSHOC-NL) Professor of Digital Cultures, Technology & Society Studies Maastricht University
+* **Sebastiaan Derks** (KNAW) Head Datamanagement Huygens Instituut
 
